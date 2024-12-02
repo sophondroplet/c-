@@ -1,0 +1,34 @@
+Start testing: Dec 01 12:00 PST
+----------------------------------------------------------
+1/1 Testing: testing
+1/1 Test: testing
+Command: "/home/lek/hw/build/test/testing"
+Directory: /home/lek/hw/build/test
+"testing" start time: Dec 01 12:00 PST
+Output:
+----------------------------------------------------------
+Running main() from /home/lek/hw/googletest/googletest/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Calculator
+[ RUN      ] Calculator.Addtest
+[       OK ] Calculator.Addtest (0 ms)
+[----------] 1 test from Calculator (0 ms total)
+
+[----------] 1 test from Calculator2
+[ RUN      ] Calculator2.SubTest
+[       OK ] Calculator2.SubTest (0 ms)
+[----------] 1 test from Calculator2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"testing" end time: Dec 01 12:00 PST
+"testing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 01 12:00 PST
